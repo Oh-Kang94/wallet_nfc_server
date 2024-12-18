@@ -14,5 +14,8 @@ Use openssl for make .pem
 
 #### [2. Apple Pass Generator Link ][ApplePassGenerator]
 
+## [3. Validate Site][ValidateSite]
+
 [Certification_Link]: https://artieee.tistory.com/120
 [ApplePassGenerator]: https://github.com/twopointone/applepassgenerator
+[ValidateSite]: https://pkpassvalidator.azurewebsites.net
